@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Argentinian Mate</name>
+	<author>Argón</author>
+	<supportedVersions><li>1.1</li><li>1.2</li></supportedVersions>
+	<packageId>Argon.ArgMate</packageId>
+	<description>
+	A tiny mod I quickly made while working on other not so smaller mods.
+	
+	Now you can make mate, a typical drink from Argentina.
+	</description>
+</ModMetaData>
